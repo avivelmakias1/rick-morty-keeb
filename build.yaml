@@ -1,5 +1,5 @@
 include:
-  - board: nice_nano_v2
+  - board: promicro_nrf52840
     shield: k36_left
-  - board: nice_nano_v2
+  - board: promicro_nrf52840
     shield: k36_right
